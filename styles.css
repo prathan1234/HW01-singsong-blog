@@ -5,7 +5,8 @@ body{
 	color:#6a6969;
 }
 h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#6a6969;}
-h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#6a6969;}
+/*h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#6a6969;}*/
+h2{font: 400 25px 'Bree Serif', Georgia, serif; color:#6a6969;}
 h3{font: 400 14px/16px 'Bree Serif', Georgia, serif; color:#6a6969;}
 ul{margin:0px; padding:0px;}
 a {text-decoration:none; color:#6a6969;}
@@ -179,10 +180,11 @@ a img{border:0px;}
 }
 #connect #social-footer #sm-links li a{
 	display:block;
-	text-indent:-9999px;
-	width:26px; 
+	text-indent:40px;
+	width:26px;
 	height:26px;
 	margin-right:10px;
+	font-size: 15px;
 }
 #connect #social-footer #sm-links li a.facebook{background:url(images/sm-facebook-icon.png) no-repeat;}
 #connect #social-footer #sm-links li a.twitter{background:url(images/sm-twitter-icon.png) no-repeat; width:31px;}
